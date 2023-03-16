@@ -1,1 +1,3 @@
-# Arduino-Projects
+# Tổng hợp các dự án Arduino
+
+Có sử dụng các module như DHT22, đo lượng mưa, đo độ ẩm đất,...
